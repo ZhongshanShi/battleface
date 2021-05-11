@@ -1,4 +1,4 @@
-# battleface
+side project
 battleface code challenge
 http://localhost:8080/battleface/authenticate -- POST -- for Authentication 
 http://localhost:8080/battleface/healthcheck -- GET -- to check the healthy of the api
